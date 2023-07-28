@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-80,
+				-360
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				160,
+				-420
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-110,
+				-370
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-170,
+				-360
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-160,
+				-442
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-160,
+				-290
+			],
+			"loop": true,
+			"fps": 23,
+			"anim": "hoomimimi",
+			"indices": [],
+			"name": "Amimir"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bidon",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sleepyjoe",
+	"flip_x": false,
+	"healthbar_colors": [
+		38,
+		45,
+		58
+	],
+	"camera_position": [
+		-100,
+		180
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

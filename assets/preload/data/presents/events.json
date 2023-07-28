@@ -1,0 +1,56 @@
+{
+	"song": {
+		"events": [
+			[
+				64000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"presents-obama"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"presents-joe"
+					]
+				]
+			],
+			[
+				112000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"presents-obama"
+					]
+				]
+			],
+			[
+				176000,
+				[
+					[
+						"Change Scroll Speed",
+						"1.15",
+						"0.1"
+					]
+				]
+			],
+			[
+				285714.285714286,
+				[
+					[
+						"Change Character",
+						"dad",
+						"presents-joe"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="presents.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="joe0000" x="0" y="0" width="376" height="470"/>
+	<SubTexture name="obama0000" x="386" y="0" width="376" height="470"/>
+	<SubTexture name="trump0000" x="0" y="480" width="371" height="470"/>
+</TextureAtlas>
